@@ -1,0 +1,2 @@
+*.umap,*.uasset,*.png filter=lfs diff=lfs merge=lfs -text
+Content/STF/Pack03-LandscapePro/Maps/open_world_LSP_v2.umap filter=lfs diff=lfs merge=lfs -text
